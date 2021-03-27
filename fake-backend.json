@@ -1,0 +1,85 @@
+{
+  "dolci": [
+    {
+      "id": 1,
+      "nome": "Dolci di Mozart",
+      "prezzo": "10.00",
+      "quantita": 3,
+      "data_inserimento": 1616644777533,
+      "ingredienti": [
+        {
+          "nome": "Crema Nocciole",
+          "quantita": 30,
+          "unita_misura": "g"
+        },
+        {
+          "nome": "Crema Cioccolato",
+          "quantita": 30,
+          "unita_misura": "g"
+        },
+        {
+          "nome": "Marzapane",
+          "quantita": 100,
+          "unita_misura": "g"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nome": "Himbeertorte",
+      "prezzo": "3.00",
+      "quantita": 1,
+      "data_inserimento": 1615211330,
+      "ingredienti": [
+        {
+          "nome": "Crema Lamponi",
+          "quantita": 230,
+          "unita_misura": "g"
+        },
+        {
+          "nome": "Meringe",
+          "quantita": 30,
+          "unita_misura": "g"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "nome": "Guglhupf",
+      "prezzo": "1.00",
+      "quantita": 10,
+      "data_inserimento": 1616444777533,
+      "ingredienti": [
+        {
+          "nome": "Panna",
+          "quantita": 130,
+          "unita_misura": "g"
+        },
+        {
+          "nome": "Crema Cioccolato",
+          "quantita": 30,
+          "unita_misura": "g"
+        },
+        {
+          "nome": "Caffè",
+          "quantita": 50,
+          "unita_misura": "g"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "nome": "Dolce alla Fragola",
+      "prezzo": "10",
+      "quantita": "20",
+      "data_inserimento": 1616844633129,
+      "ingredienti": [
+        {
+          "nome": "Panna",
+          "quantita": 130,
+          "unita_misura": "g"
+        }
+      ]
+    }
+  ]
+}
